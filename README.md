@@ -18,7 +18,7 @@
 - 清楚的 [Documentation](http://pixijs.github.io/docs/) 
 - 豐富的 [Example](http://pixijs.github.io/examples/)
 - 簡易的元件封裝處理
-- 可結合 [Greensock](https://greensock.com/), [Create.js](http://www.createjs.com/) .... 等 Animation library
+- 可結合 [Greensock](https://greensock.com/) , [Create.js](http://www.createjs.com/) .... 等 Animation library
 - [TexturePacker](https://www.codeandweb.com/texturepacker) 輸出 `jsonHash` 拼貼圖片
 - bitmap 字型與 WebFont [- ( Demo )](http://pixijs.github.io/examples/index.html?s=demos&f=text-demo.js&title=Text)
 - 完善的滑鼠事件 [- ( Demo ) ](http://pixijs.github.io/examples/index.html?s=demos&f=interactivity.js&title=Interactivity)
