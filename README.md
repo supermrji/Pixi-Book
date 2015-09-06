@@ -10,7 +10,7 @@
 支援主流瀏覽器，包括 **PC** 與行動裝置。
 不支援 **WebGl** 的裝置會以 **Canvas** 呈現。
 
-Pixi.js 有許多優點：
+### Pixi.js 有許多優點：
 
 - 渲染非常快速、效能優異
 - 清楚的 [Documentation](http://pixijs.github.io/docs/) 
