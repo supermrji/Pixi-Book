@@ -1,1 +1,7 @@
-{}
+{ 
+    "gitbook": ">=2.0.0" ,
+    "title": "My Awesome Book",
+    "description": "This is such a great book!",
+    "language": "zh-tw" }
+    
+}
