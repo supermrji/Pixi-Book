@@ -23,4 +23,5 @@ Pixi.js 有許多優點：
 - 豐富的濾鏡 [- ( Demo )](http://pixijs.github.io/examples/index.html?s=filters&f=blur-filter.js&title=Blur)
 - [Spine](http://zh.esotericsoftware.com/) 輸出動畫 [- ( Demo )](http://pixijs.github.io/examples/index.html?s=spine&f=dragon.js&title=Dragon&plugins=pixi-spine)
 
+_______
 - 此書是以個人實作經驗分享，不一定是完全正確，若有疑問請與我聯絡。
