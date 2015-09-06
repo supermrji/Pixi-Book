@@ -2,6 +2,8 @@
 
 > Pixi.js is a 2D webGL renderer with a seamless canvas fallback that enables it to work across all modern browsers both desktop and mobile. Helping Goodboy and hopefully you achieve the big fat goal of “Build once, play everywhere
 
+以上是官方對 **Pixi.js** 的解釋
+
 **Pixi.js** 使用 **WebGL**，是一個超快的 **HTML5 2D**
  渲染引擎。
  
