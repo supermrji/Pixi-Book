@@ -1,6 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * Pixi.js
-* 簡介
    * 123
 
