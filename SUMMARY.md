@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Pixi.js](pixijs.md)
+* [簡介](intro.md)
 
