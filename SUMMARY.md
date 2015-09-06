@@ -1,6 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Pixi.js
-   * 123
+* [Pixi.js](pixijs.md)
 
