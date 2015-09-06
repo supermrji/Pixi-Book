@@ -1,4 +1,4 @@
-# Pixi.js
+# [Pixi.js](http://www.pixijs.com/) 
 
 > Pixi.js is a 2D webGL renderer with a seamless canvas fallback that enables it to work across all modern browsers both desktop and mobile. Helping Goodboy and hopefully you achieve the big fat goal of “Build once, play everywhere
 
