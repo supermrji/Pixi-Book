@@ -36,3 +36,5 @@ console.log(PIXI);
 ```js
 Object {VERSION: "3.0.8" ...
 ```
+
+確定 `pixi.js` 已經載入成功了，我們可以往下一步移動。
