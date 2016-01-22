@@ -110,3 +110,11 @@ renderer.resize(512, 512);
 ```js 
 renderer.backgroundColor = 0x061639;
 ```
+* 簡易設定全畫面滿版 (canvas 的滿版 非內容滿版)
+```js
+renderer.view.style.position = "absolute";
+renderer.view.style.display = "block";
+renderer.autoResize = true;
+renderer.resize(window.innerWidth, window.innerHeight);
+```
+
