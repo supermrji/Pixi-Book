@@ -6,4 +6,5 @@
 * [Pixi Sprite](sprites.md)
 * [PIXI Loader](pixi_loader.md)
    * [基本 loader](standard_loader.md)
+       * 進度條
 
