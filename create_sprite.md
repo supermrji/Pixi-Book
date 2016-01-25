@@ -35,4 +35,4 @@ var logo = new PIXI.Sprite(texture);
 
 根據上方講到的 **[PIXI.loader](http://pixijs.github.io/docs/PIXI.loaders.Loader.html) API** ，我們需要使用 PIXI 的載入器來將圖片做成 **Texture Cache**。
 
-前往下一章節我們來了解 [PIXI Loader](pixi_loader.md)
+前往下一章節我們來了解 **[PIXI Loader](pixi_loader.md)**
