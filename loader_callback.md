@@ -31,36 +31,36 @@ PIXI.loader.add(name, url, option, callback)
 
 ```js
 .add({
-  name: 'key2',
-  url: 'http://...'
+    name: 'key2',
+    url: 'http://...'
 }, function () {})
 
 // or
 .add({
-  url: 'http://...'
+    url: 'http://...'
 }, function () {})
 
 // or
 .add({
-  name: 'key3',
-  url: 'http://...'
-  onComplete: function () {}
+    name: 'key3',
+    url: 'http://...'
+    onComplete: function () {}
 })
 
 // or
 .add({
-  url: 'https://...',
-  onComplete: function () {},
-  crossOrigin: true
+    url: 'https://...',
+    onComplete: function () {},
+    crossOrigin: true
 })
 ```
 很特別的，也可以大雜燴混著用
 
 ```js
 .add([
-  {name: 'key4', url: 'http://...', onComplete: function () {} },
-  {url: 'http://...', onComplete: function () {} },
-  'http://...'
+    {name: 'key4', url: 'http://...', onComplete: function () {} },
+    {url: 'http://...', onComplete: function () {} },
+    'http://...'
 ]);
 ```
 
@@ -72,3 +72,8 @@ PIXI.loader.add(name, url, option, callback)
 
     PIXI.loader.reset();
 
+這樣可以清除剛剛暫存的序列，確保我們要的 **loading progress** 從 **0** 開始。
+
+PIXI loader 有許多參數可設定，讓你的各種類型檔案載入，但這些官方都幫你做好了，你只要定期去看官方文件獲取更多資訊。
+
+>Pixi's loader has many more advanced features, including options to let you load and parse binary files of all types. This is not something you'll need to do on a day-to-day basis, and way outside the scope of this tutorial, so [make sure to check out the loader's GitHub repository for more information](https://github.com/englercj/resource-loader).
