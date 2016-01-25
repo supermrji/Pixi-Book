@@ -31,4 +31,7 @@ var texture = PIXI.utils.TextureCache["images/logo.pngg"];
 var logo = new PIXI.Sprite(texture);
 ```
 
-這樣我們就成功建立一個可以在畫面呈現的元件，只要把它加入 Stage 他就會顯示在您的瀏覽器頁面
+但現在問題來了，我們怎麼載入這些圖片？
+
+根據上方講到的 **[PIXI.loader](http://pixijs.github.io/docs/PIXI.loaders.Loader.html) API** ，我們需要使用 PIXI 的載入器來將圖片做成 **Texture Cache**。
+
