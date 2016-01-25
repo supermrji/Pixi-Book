@@ -54,7 +54,6 @@ PIXI.loader.add(name, url, option, callback)
   crossOrigin: true
 })
 ```
-
 很特別的，也可以大雜燴混著用
 
 ```js
@@ -64,4 +63,12 @@ PIXI.loader.add(name, url, option, callback)
   'http://...'
 ]);
 ```
+
+### Reset
+如果你需要做不同的載入序列就需要使用 `reset` function
+
+例如：你想要載入完一個檔案播放動畫，然後再跑進度條百分比，你必須在第一個 resource 載入完成後執行一次
+
+
+    PIXI.loader.reset();
 
