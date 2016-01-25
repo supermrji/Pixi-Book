@@ -6,4 +6,5 @@
 * [Pixi Sprites](sprites.md)
    * [建立 Sprite](create_sprite.md)
    * [PIXI Loader](pixi_loader.md)
+* PIXI Loader
 
