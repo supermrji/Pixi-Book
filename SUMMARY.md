@@ -7,5 +7,4 @@
 * [PIXI Loader](pixi_loader.md)
    * 進度條
    * [基本 loader](standard_loader.md)
-       * 進度條
 
