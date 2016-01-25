@@ -17,10 +17,21 @@ PIXI 使用 GPU 和 WebGL 來渲染圖片，圖片需要經過格式化 GPU 才�
 
 當我們從 [PIXI.loader](http://pixijs.github.io/docs/PIXI.loaders.Loader.html) 成功載入一張圖片後，圖片會被 PIXI 存成 **Texture Cache** 
 
-如果你從資料夾載入了一張 `/images/logo.png`
+如果你從資料夾載入了一張 `images/logo.png`
 它將會被放到 Cache 裡面，而您要取用時便可以使用以下指令獲取
 
 ```js
-PIXI.utils.TextureCache["images/cat.png"];
+PIXI.utils.TextureCache["images/logo.png"];
 ``` 
 
+記住剛剛的口訣 「建模，上貼圖」，
+
+```js
+var texture = PIXI.utils.TextureCache["images/logo.pngg"];
+var logo = new PIXI.Sprite(texture);
+```
+
+這樣我們就成功建立一個可以在畫面呈現的元件，只要把它加入 Stage 他就會顯示在您的瀏覽器頁面
+
+####**但是問題來了，我們怎麼載入這張圖片？**
+根據上方講到的 [PIXI.loader](http://pixijs.github.io/docs/PIXI.loaders.Loader.html) API ，
