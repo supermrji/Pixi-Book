@@ -65,3 +65,5 @@ function init() {
     var sprite = new PIXI.Sprite(PIXI.loader.resources.logo.texture);;
 }
 ```
+
+指定名稱可以讓你對某些 Texture 快速處理，但是你必須要記住所有的命名，在後續處理上算是不小的負擔，我們在之後的幾個範例中會有更多使用建議。
