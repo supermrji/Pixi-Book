@@ -97,7 +97,8 @@ renderer.render(stage);
 var w = renderer.view.width
 var h = renderer.view.height
 ```
-[ 重要提示 !! ] 這兩個屬性只是你的 canvas 寬高，跟你裡面的元件的寬高不相關，這裡只是跟你的瀏覽器講說你的 Canvas 容器有多大
+###重要提示!!
+這兩個屬性只是你的 canvas 寬高，跟你裡面的元件的寬高不相關，這裡只是跟你的瀏覽器講說你的 Canvas 容器有多大
 白話點就是這個 HTML Tag 有多大，跟你 **Stage** 內容的寬高一點關係都沒有。
 
 * resize
