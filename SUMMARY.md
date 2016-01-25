@@ -7,4 +7,5 @@
 * [PIXI Loader](pixi_loader.md)
    * [基本 loader](standard_loader.md)
    * [進度條](progress.md)
+   * 各別載入 callback
 
