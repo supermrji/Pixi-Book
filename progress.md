@@ -34,7 +34,7 @@ function init() {
 function loadProgressHandler(loader, resource) { //...
 ```
 
-* 你可以利用這 `resource.url` 去得知某項資源是否載入完畢，如果你有指定名稱給某個載入檔案，可以使用 `resource.name` 去找尋您所要找尋的檔案資源。
+* 你可以利用這 `resource.url` 去得知某項資源是否載入完畢，如果你有指定名稱給某個載入檔案，可以使用 `resource.name` 去找尋您所要找尋的檔案資源
 
 * 使用 `loader.progress` 去得到現在的載入進度百分比
 
