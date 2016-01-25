@@ -74,6 +74,6 @@ PIXI.loader.add(name, url, option, callback)
 
 這樣可以清除剛剛暫存的序列，確保我們要的 **loading progress** 從 **0** 開始。
 
-PIXI loader 有許多參數可設定，讓你的各種類型檔案載入，但這些官方都幫你做好了，你只要定期去看官方文件獲取更多資訊。
+PIXI loader 有許多進階設定，讓你的各種類型檔案載入，但這些官方都幫你做好了，你只要定期去看官方文件獲取更多資訊。
 
 >Pixi's loader has many more advanced features, including options to let you load and parse binary files of all types. This is not something you'll need to do on a day-to-day basis, and way outside the scope of this tutorial, so [make sure to check out the loader's GitHub repository for more information](https://github.com/englercj/resource-loader).
