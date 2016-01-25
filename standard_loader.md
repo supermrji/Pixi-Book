@@ -14,7 +14,7 @@ function init() {
 
 在使用 **Texture Cache** 的方式有很多種
 
-官方建議使用這種方式，[可參考這篇](http://www.html5gamedevs.com/topic/16019-preload-all-textures/#comment-90907)
+官方建議使用以下這種方式，[可參考這篇](http://www.html5gamedevs.com/topic/16019-preload-all-textures/#comment-90907)
 
 ```js
 PIXI.loader
