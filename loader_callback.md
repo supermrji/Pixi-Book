@@ -67,12 +67,11 @@ PIXI.loader.add(name, url, option, callback)
 ### **Reset**
 如果你需要做不同的載入序列就需要使用 `reset` function
 
-例如：你想要載入完一個檔案播放動畫，然後再跑進度條百分比，你必須在第一個 resource 載入完成後執行一次
-
+例如：你想要載入完某個檔案之後播放動畫，然後再跑進度條百分比，你必須在第一個 resource 載入完成後執行一次
 
     PIXI.loader.reset();
 
-這樣可以清除剛剛暫存的序列，確保我們要的 **loading progress** 從 **0** 開始。
+這樣可以清除剛剛暫存的 `loader` 序列，確保我們要的 **loading progress** 從 **0** 開始。
 
 PIXI loader 有許多進階設定，讓你的各種類型檔案載入，但這些官方都幫你做好了，你只要定期去看官方文件獲取更多資訊。
 
