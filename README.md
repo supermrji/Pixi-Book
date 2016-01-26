@@ -15,15 +15,15 @@
 ### Pixi.js 有許多優點：
 
 - 渲染快速、效能優異
-- 清楚的 [Documentation](http://pixijs.github.io/docs/) 
-- 豐富的 [Example](http://pixijs.github.io/examples/)
+- 清楚的 **[Documentation](http://pixijs.github.io/docs/) **
+- 豐富的 **[Example](http://pixijs.github.io/examples/)**
 - 簡易的元件封裝處理
-- 可結合 [Greensock](https://greensock.com/) , [Create.js](http://www.createjs.com/) .... 等 Animation library
-- [TexturePacker](https://www.codeandweb.com/texturepacker) 輸出 `jsonHash` 拼貼圖片
-- bitmap 字型與 WebFont [- ( Demo )](http://pixijs.github.io/examples/index.html?s=demos&f=text-demo.js&title=Text)
-- 完善的滑鼠事件 [- ( Demo ) ](http://pixijs.github.io/examples/index.html?s=demos&f=interactivity.js&title=Interactivity)
-- 豐富的濾鏡 [- ( Demo )](http://pixijs.github.io/examples/index.html?s=filters&f=blur-filter.js&title=Blur)
-- [Spine](http://zh.esotericsoftware.com/) 輸出動畫 [- ( Demo )](http://pixijs.github.io/examples/index.html?s=spine&f=dragon.js&title=Dragon&plugins=pixi-spine)
+- 可結合 **[Greensock](https://greensock.com/)** , **[Create.js](http://www.createjs.com/)** .... 等 Animation library
+- **[TexturePacker](https://www.codeandweb.com/texturepacker)** 輸出 `Json Hash` 拼貼圖片
+- bitmap 字型與 WebFont **[- ( Demo )](http://pixijs.github.io/examples/index.html?s=demos&f=text-demo.js&title=Text)**
+- 完善的滑鼠事件 **[- ( Demo ) ](http://pixijs.github.io/examples/index.html?s=demos&f=interactivity.js&title=Interactivity)**
+- 豐富的濾鏡 **[- ( Demo )](http://pixijs.github.io/examples/index.html?s=filters&f=blur-filter.js&title=Blur)**
+- **[Spine](http://zh.esotericsoftware.com/)** 輸出動畫 **[- ( Demo )](http://pixijs.github.io/examples/index.html?s=spine&f=dragon.js&title=Dragon&plugins=pixi-spine)**
 
 _______
 - 此書是以個人實作經驗分享，不一定是完全正確，若有疑問請與我聯絡。
