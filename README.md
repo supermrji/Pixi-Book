@@ -15,7 +15,7 @@
 ### Pixi.js 有許多優點：
 
 - 渲染快速、效能優異
-- 清楚的 **[Documentation](http://pixijs.github.io/docs/) **
+- 清楚的 **[Documentation](http://pixijs.github.io/docs/)**
 - 豐富的 **[Example](http://pixijs.github.io/examples/)**
 - 簡易的元件封裝處理
 - 可結合 **[Greensock](https://greensock.com/)** , **[Create.js](http://www.createjs.com/)** .... 等 Animation library
