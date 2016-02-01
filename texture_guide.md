@@ -1,4 +1,4 @@
-# PIXI Sprite
+# 貼圖概念
 
 **[PIXI.Sprite](http://pixijs.github.io/docs/PIXI.Sprite.html)** 是 PIXI 中最重要的角色之一。
 
