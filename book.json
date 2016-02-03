@@ -6,7 +6,8 @@
     "plugins": [
         "exercises",
         "addcssjs",
-        "copy-code-button"
+        "copy-code-button",
+        "github"
     ],
     "pluginsConfig": {
         "addcssjs": {
