@@ -4,7 +4,8 @@
     "description": "This is such a great book!",
     "language": "zh-tw",
     "plugins": [
-        "exercises"
+        "exercises",
+        "addcssjs"
     ],
     "pluginsConfig": {}
 }
