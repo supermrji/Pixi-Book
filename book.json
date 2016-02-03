@@ -7,5 +7,9 @@
         "exercises",
         "addcssjs"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+      "addcssjs": {
+        "js": ["https://cdnjs.cloudflare.com/ajax/libs/pixi.js/3.0.9/pixi.min.js"]
+      }
+    }
 }
