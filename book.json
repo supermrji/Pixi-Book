@@ -1,0 +1,22 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "Pixi.js Book",
+    "description": "I am Kingsley",
+    "language": "zh-tw",
+    "plugins": [
+        "exercises",
+        "addcssjs",
+        "copy-code-button",
+        "github"
+    ],
+    "pluginsConfig": {
+        "addcssjs": {
+            "js": [
+                "https://cdnjs.cloudflare.com/ajax/libs/pixi.js/3.0.9/pixi.min.js"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/supermrji"
+        }
+    }
+}
